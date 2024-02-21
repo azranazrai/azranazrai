@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azranazrai&label=Profile%20views&color=0e75b6&style=flat" alt="azranazrai" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zerai az" target="blank"><img src="https://img.shields.io/twitter/follow/zerai az?logo=twitter&style=for-the-badge" alt="zerai az" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/zerai_az13" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/zerai_az13?logo=twitter&style=for-the-badge" alt="https://twitter.com/zerai_az13" /></a> </p>
 
 - 🌱 I’m currently learning **Reach, Javascript,Python**
 
@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zerai az" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zerai az" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad azran azrai bin mamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad azran azrai bin mamat" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/zerai_az13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/zerai_az13" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-azran-azrai-bin-mamat-a36374220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-azran-azrai-bin-mamat-a36374220/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/azranazrai13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/azranazrai13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/azranazrai13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azranazrai13" height="30" width="40" /></a>
 <a href="https://discord.gg/moochimoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="moochimoo" height="30" width="40" /></a>
 </p>
