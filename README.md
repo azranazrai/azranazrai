@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/zerai_az13" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/zerai_az13?logo=twitter&style=for-the-badge" alt="https://twitter.com/zerai_az13" /></a> </p>
 
-- 🌱 I’m currently learning **Reach, Javascript,Python**
+- 🌱 I’m currently learning **React, Javascript,Python**
 
 - 📫 How to reach me **azranaazrai13@gmail.com**
 
