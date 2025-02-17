@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in Kuantan, Malaysia
 *   ✉️  You can contact me at [azranazrai13@gmail.com](mailto:azranazrai13@gmail.com)
-*   🧠  I'm learning Currently learning React, Javascript & Python
+*   🧠  I'm learning Currently learning React & Python
 *   ⚡  Problem Solving
   
                     
